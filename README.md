@@ -1,7 +1,5 @@
 # shopping_app
 
-https://shopping-app-6fff9.web.app/
-
 Go to https://shopping-app-6fff9.web.app/ in your browser.
 
 If not showing desired page
